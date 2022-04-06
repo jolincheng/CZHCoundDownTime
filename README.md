@@ -1,8 +1,6 @@
 # CZHCoundDownTime
 
-![公司的项目.png](https://upload-images.jianshu.io/upload_images/6709174-4b217cb5f07b1f6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-公司的项目，求支持，如果发现什么问题，可以留言反应，感激不尽
 
 ![这里写图片描述](http://img.blog.csdn.net/20171220122049901?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSHVycnlVcENoZW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
